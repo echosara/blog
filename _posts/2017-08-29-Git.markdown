@@ -12,6 +12,8 @@ tags:
 
 ##  如何用git管理一个文件
 
+### 管理流程
+
 1. 启动Git Bash程序，使用cd指令切换到你需要管理的文件夹：`cd '文件夹路径'`
 
 2. 执行以下指令，让Git开始管理这个文件夹：
@@ -30,4 +32,36 @@ tags:
    `git add _posts/2017-08-29-Git.markdown`
    但是出现了一些状况，Git Bash上显示一个warning
    `LF will be replaced by CRLF in _posts/2017-08-29-Git.markdown`
-   看了一些大佬们的解释，说发生这个问题主要是Windows和Unix系统的换行符不同，LF是Unix标志，CRLF是Windows的标志。巴拉巴拉
+   看了一些大佬们的解释，说发生这个问题主要是Windows和Unix系统的换行符不同，LF是Unix标志，CRLF是Windows的标志。balabala
+   重复1,2步操作之后，输入git命令
+   `git config core.autocrlf false`
+   之后一切正常了。
+
+5. 输入命令`git status`可以查看文档库的状态
+
+6. 在输入命令git commit 的时候出现了很多问题，比如说需要config
+
+7. 配置完config之后直接commit就行了
+
+### config的配置
+
+Git有三个不同优先级的配置文件，高优先级覆盖低优先级。
+
+1. 文件夹中“。git”子文件夹内的config文件，具有最高优先级
+2. 登录账号的home directory 中的config文件，具有次一级的优先级
+3. Git安装文件夹中的etc\gitconfig文件 最低优先级
+
+**显示**           可以用`git config -l`显示三个配置文件中所有配置信息
+
+**设定**               `git config user.name 'echo'`和`git config user.email 'zhujihongecho@gmail.com'`可以指定用                              
+
+​                      户名和邮箱。
+
+​                    在config 后面加`--global`或者`--system`可以去更改权限
+
+**更改** `git config --unset user.name`对设置进行删除
+
+### git指令
+
+`git config alias.指定别名 '正式的指令和选项'`
+
