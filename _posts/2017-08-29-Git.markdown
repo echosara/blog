@@ -65,3 +65,27 @@ Git有三个不同优先级的配置文件，高优先级覆盖低优先级。
 
 `git config alias.指定别名 '正式的指令和选项'`
 
+> 哇，好开心要，输入Git commit之后会进入默认的Vi编辑器，然后我知道怎么退出vi了按Esc之后按两下大写的ZZ    被Linus搞了><
+
+### 排除不需要加入文档库的文件   
+
+Git会把文件分成三类
+
+1. 被跟踪的文件（tracked）；
+2. 忽略的（ignored）；
+3. 不被跟踪的（untracked）；
+
+一开始所有的文件都是untracked的，理想情况下，文件应该分为tracked和ignored两种，tracked的文件就是被加入git文档库中的。会对文档的更新情况进行跟踪。untracked的不会做任何处理，只会一直显示untracked。ignored是明确了untracked的意思。
+
+**tracked**   使用`git add 文件名`的命令会使文件加入git文件库中。
+
+**ignored**   用.gitignored 文件可以设置忽略的文件，
+
+1.  使用`touch .gitignore`创建这个文件。
+2. 用文字编辑程序打开".gitignore” 文件，将要忽略的文件写到文档里
+
+就OK了
+
+.gitignore文件的语法，用#字符开头表示注释，文件夹路径用/字符，文件名可以用通配符*，另外！表示排除
+
+  
