@@ -1,0 +1,33 @@
+---
+layout:     post
+title:      "git学习笔记"
+subtitle:   "开始用git管理博客"
+date:       2017-08-29
+author:     "Echo"
+header-img: "img/post-bg-git.jpg"
+catalog: true
+tags:
+    - git/github
+---
+
+##  如何用git管理一个文件
+
+1. 启动Git Bash程序，使用cd指令切换到你需要管理的文件夹：`cd '文件夹路径'`
+
+2. 执行以下指令，让Git开始管理这个文件夹：
+   `git init`
+
+   > 补充说明，
+   >
+   > 1. Git可以管理任何一个文件夹中的文件和子文件夹，
+   > 2. Git可以处理中文名称的文件和文件夹。只是Git Bash会出现乱码
+   > 3. git help -a,可以显示所有指令列表
+   > 4. 反斜杠\结尾可以换行
+
+3. 我们创建了这个markdown的文件，看git是如何管理的。
+
+4. 执行这个命令，准备送到文档库储存。
+   `git add _posts/2017-08-29-Git.markdown`
+   但是出现了一些状况，Git Bash上显示一个warning
+   `LF will be replaced by CRLF in _posts/2017-08-29-Git.markdown`
+   看了一些大佬们的解释，说发生这个问题主要是Windows和Unix系统的换行符不同，LF是Unix标志，CRLF是Windows的标志。巴拉巴拉
