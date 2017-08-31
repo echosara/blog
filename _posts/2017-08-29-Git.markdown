@@ -109,3 +109,11 @@ Git会把文件分成三类
 `git add .`准备送入库中
 
 `git commit -m 'commit 的信息' `在分支上有了commit的节点。
+
+#### 合并
+
+`git checkout A` `git checkout B`把B合并到A上面
+
+`git reset --hard HEAD^`可以回到合并之前的状态
+
+合并时两个分支对base相同位置的更改会造成矛盾，如果合并的过程发生冲突，我们想要放弃这个合并，可以执行`git merge --abort`指令。Git文档库和文件夹中的文件内容都会恢复到未执行合并之前的状态。发生冲突需要手动对冲突进行修改，git会提醒冲突地点。
