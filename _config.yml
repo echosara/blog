@@ -6,7 +6,7 @@ email: zhujihongecho@gmail.com
 description: "不务正业><"
 keyword: "朱基宏，echo，也不知道是谁的男朋友"
 url: " https://echosara.github.io/echoblog/"              # your host, for absolute URL
-baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+baseurl: "/echoblog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
