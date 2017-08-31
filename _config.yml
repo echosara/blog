@@ -1,0 +1,118 @@
+# Site settings
+title: Echo Blog
+SEOTitle: 朱基宏的博客 | Echo Blog
+header-img: img/home-bg.jpg
+email: zhujihongecho@gmail.com
+description: "不务正业><"
+keyword: "朱基宏，echo，也不知道是谁的男朋友"
+url: " https://echosara.github.io/echoblog/"              # your host, for absolute URL
+baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
+
+
+
+# SNS settings
+RSS: false
+weibo_username:     Echo
+zhihu_username:     Echo
+github_username:    Echo
+#twitter_username:  Echo
+facebook_username:  Echo
+
+
+
+# Build settings
+# from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
+highlighter: rouge
+permalink: pretty
+paginate: 10
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+anchorjs: true                          # if you want to customize anchor. check out line:181 of `post.html`
+
+
+
+# Gems
+# from PR#40, to support local preview for Jekyll 3.0
+gems: [jekyll-paginate]
+
+
+
+# Markdown settings
+# replace redcarpet to kramdown,
+# although redcarpet can auto highlight code, the lack of header-id make the catalog impossible, so I switch to kramdown
+# document: http://jekyllrb.com/docs/configuration/#kramdown
+markdown: kramdown
+kramdown:
+  input: GFM                            # use Github Flavored Markdown !important
+
+
+
+# Disqus settings
+#disqus_username: _your_disqus_short_name_
+
+# Duoshuo settings
+duoshuo_username: huxblog
+# Share component is depend on Comment so we can NOT use share only.
+duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+
+
+
+
+# Analytics settings
+# Baidu Analytics
+ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+# Google Analytics
+ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
+ga_domain: huangxuan.me
+
+
+
+# Sidebar settings
+sidebar: true                           # whether or not using Sidebar.
+sidebar-about-description: "在终结到来之前一切只是过程"
+sidebar-avatar: /img/echo-avatar.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+
+
+
+# Featured Tags
+featured-tags: true                     # whether or not using Feature-Tags
+featured-condition-size: 1              # A tag will be featured if the size of it is more than this condition value
+
+
+
+# Friends
+friends: [
+    {
+    #     title: "Su",
+    #     href: "http://su.gallery/"
+    # },{
+        title: "Hux Blog",
+        href: "http://huangxuan.me/"
+    },{
+        title: "前端外刊评论",
+        href: "http://qianduan.guru/"
+    },{
+        title: "Joel on Software",
+        href: "http://www.joelonsoftware.com/"
+    },{
+        title: "Peter Norvig",
+        href: "http://www.norvig.com/index.html"
+    },{
+        title: "Coding Horror",
+        href: "http:// blog.codinghorror.com"
+    },{
+        title: "SmdCn's Blog",
+        href: "http://blog.smdcn.net"
+    },{
+        title: "解旻的博客",
+        href: "http://xieminis.me/"
+    },{
+        title: "DHong Say",
+        href: "http://dhong.co"
+    },{
+        title: "尹峰以为",
+        href: "http://ingf.github.io/"
+    },{
+        title: "前端神盾局",
+        href: "http://wepiaofei.github.io/blog/"
+    }
+]

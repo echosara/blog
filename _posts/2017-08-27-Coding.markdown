@@ -1,0 +1,148 @@
+---
+layout:     post
+title:      "Get started"
+subtitle:   "编程学习资料"
+date:       2017-08-27
+author:     "Echo"
+header-img: "img/post-bg-code.png"
+catalog: true
+tags:
+    - 资源
+---
+
+
+
+>You can code. They cannot. That is pretty damn cool.
+
+
+
+## Python学习的资料
+
+[Learn Python The Hard Way](http://learnpythonthehardway.org/book/)或者[《笨方法学python（第三版）》](http://book.douban.com/subject/26264642)
+
+[廖雪峰的Python2.7教程](http://www.liaoxuefeng.com)
+
+[The Hitchhiker's Guide to Python](http:docs.python-guide.org/en/lastest/)
+
+[Python 官方文档](http://www.python.org/doc/)
+
+### 类库方面
+
+[Awesome Python 项目](http://github.com/vinta/awesome-python)
+
+### 书籍方面
+
+[集体智慧编程](http://book.douban.com/subject/3288908)
+
+[数学之美](http://book.douban.com/subject/10750155)
+
+[统计学习方法](http://book.douban.com/subject/10590856)
+
+[Pattern Recognition And Machine Learning ](http://book.douban.com/subject/2061116)
+
+[数据科学实战](http://book.douban.com/subject/26320485)
+
+[数据检索导论](http://book.douban.com/subject/5252170)
+
+#### 爬虫
+
+[HTTP权威指南](http://book.douban.com/subject/10746113)
+
+#### Web网站
+
+[HTML&CSS设计与构建网站](http://book.douban.com/subject/21338365/)
+
+### 入门
+
+[《编码的奥秘》](http://book.douban.com/subject/1023570/)
+
+[《C语言编程》](http://book.douban.com/subject/1786294)
+
+如果你的目标是成为一名Hacker[Hacker's Delight](http://book.douban.com/subject/1784887)
+
+[MIT计算机导论课](http://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-6#.VNL-zlWUQ0)
+
+[Python核心教程](http://book.douban.com/subject/3112503)
+
+[Harvard CS50](http://www.edx.org/course/introduction-computer-science-harvardx-cs50x#.VNyhfFWUdQ1)
+
+学完了启蒙课程之后，这时的我可能想去学一门具体的技术，，诸如Web开发，Android开发，IOS开发之类的，可以先尝试做一些尽可能简单的东西，给自己正反馈，但是记住别深入，这些技术有无数的细节，将来会有时间去学习的；同样的这时候也别过于深入特定的框架和语言。注重计算机基础知识点学习。
+
+这时候需要做的是反思自己写的程序，去思考为什么（why）要这样设计？思考怎样（How）写成更好的程序
+
+Structure and Interpretation of Computer Programs(SICP)[《计算机程序的构造和解释》](http://mitpress.mit.edu/sicp/full-text/book/book.html)
+
+这本书认为X=用于思考解决方案的时间，即{解决问题}部分
+
+​                    Y=用于实现代码的时间，即{利用计算机}部分
+
+​                    编程能力=F(X,Y)(X>Y)
+
+stackoverflow上票选得出的排在前两位的书：
+
+[Code Complete](http://book.douban.com/subject/1477390/)
+
+[The Pragmatic Programmer](http://book.douban.com/subject/1417047/)程序员入门书，终极书。代码小全，从做人到做程序员
+
+完成了上面的内容之后就算是入门了，我知道入门很难，但是为什么不去学呢？
+
+-----
+
+[C标准委员会写的C语言基本原理](http://www.open-std.org/jtc1/sc22/wg14/www/C99RationaleV5.10.pdf)
+
+看完了上面的书之后，你就对Python了如指掌，Python使用C语言实现的，深入了解就要知道Python的源码。
+
+[Python源码剖析](http://book.douban.com/subject/317898)
+
+另外Python本身是一门杂糅了多种范式的动态语言。学习某种编程范式时，从那些面向这种范式更加纯粹的语言出发，才能有更深刻的理解
+
+[编程范式](http://v.163.com/special/opencourse/paradigms.html)
+
+### 分析数据
+
+[Dataquest](http://www.dataquest.io/courses)提供一系列和数据分析有关的Python教程
+
+Coursera上的[Python教程](https://www.coursera.org/learn/hipython)
+
+## 一些反思
+
+感觉每一次在图书馆偶遇我都坐在你的5点钟方向。看完了这档书之后觉得自己走的大体路是对的，Python的学习和MATLAB的学习想想看真的很像，MATLAB是以函数为中心的，Python是以模块为中心。现在我已经把Python的语法都看了一遍，觉得还是比较友好的，现在可以接触一些和机器学习有关的Python代码，并且思考为什么要这样编程。恩就这样。
+
+以及一些可以说的话
+
+觉得比较好的方法是她先走，然后我追上去“xm，去吃饭吗？”
+
+“为什么”
+
+“上次专门跑到老区来教你大物实验，你都没有请我吃饭，这次是不是要补上，那你忘了就算了吧”
+
+“你和那个男生都有一起去自习吃饭，都没有说我会怎么想，”
+
+“你什么时候考试呀，”（这种就是安东尼说的喜欢又想得到的感觉）
+
+“但是我有一些正事要和你讲哎”
+
+（“一边吃饭一边说吧”）
+
+“我觉得你一直把那个小姐姐的位置占着不太好哎”
+
+“觉得我带着耳机的时候像不像片宝”
+
+“看的时候特别想像剧里面一样在海边买一个小房子，这样可以在海滩上吃烧烤”
+
+“那个考试考得怎么样呢？”
+
+“为什么不和那个男生一起自习了呢？”
+
+“小曼真是超严格”
+
+“你到大三大四是不是要实习了呢？”
+
+“我有一个同学好像已经被四大录取了”
+
+最后说下数学建模的事吧
+
+发现我不太喜欢你的高中同学，一个上大物实验课很水，一个上体育课很水，一个自习很水。反正那个男生不是很符合我的审美，如果自己是片宝，我就会和他"私下交流"下
+
+还有，你今年的七夕节是一个人过吗？
+
