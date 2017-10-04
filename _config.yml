@@ -11,12 +11,6 @@ baseurl: "/echoblog"         # for example, '/blog' if your blog hosted on 'host
 
 
 # SNS settings
-RSS: false
-weibo_username:     Echo
-zhihu_username:     Echo
-github_username:    Echo
-#twitter_username:  Echo
-facebook_username:  Echo
 
 
 
