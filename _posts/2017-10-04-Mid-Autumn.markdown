@@ -4,7 +4,7 @@ title:      "上辈子和这辈子"
 subtitle:   "巍巍重山外 月满冷清秋"
 date:       2017-09-13
 author:     "Echo"
-header-img: "img/post-bg-Mid-Autumn.png"
+header-img: "img/post-bg-National.png"
 catalog: true
 tags:
     - 生活
