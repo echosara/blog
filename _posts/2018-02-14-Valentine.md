@@ -12,4 +12,4 @@ tags:
 
 >虽说在网上，但只有你我可见
 
-![Force Events](img/post-bg-valentine.jpg)
+![Force Events](/img/post-bg-valentine.jpg)
