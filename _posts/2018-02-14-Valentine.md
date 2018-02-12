@@ -10,6 +10,12 @@ tags:
     - 爱情
 ---
 
->虽说在网上，但只有你我可见
+>
 
 ![test](https://raw.githubusercontent.com/echosara/echoblog/master/img/post-bg-valentine%20.jpg)
+
+### 一切从这张照片开始 ——2017-09-20
+那天，接到你的电话，看到你的说说，去主教找你，缘分吧，找的第二个教室你就在里面。
+![begin]()
+我不想让你再流泪，不再容忍别人给你伤害，我想要用我的温柔，给你整个宇宙。
+
