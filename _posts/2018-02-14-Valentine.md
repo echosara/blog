@@ -12,4 +12,4 @@ tags:
 
 >虽说在网上，但只有你我可见
 
-![text](/img/post-bg-valentine.jpg)
+![test](raw.githubusercontent.com/echosara/echoblog/master/img/post-bg-valentine%20.jpg)
