@@ -28,7 +28,7 @@ tags:
 ![guoqing](https://github.com/echosara/echoblog/blob/master/img/guoqing.png)
 我看在家的时候拍了很多照片，早饭和栗子,想要告诉你我在这边的生活是什么样的
 ![breakfast](https://github.com/echosara/echoblog/blob/master/img/val_breakfast.jpg)
-![nuts](https://github.com/echosara/echoblog/blob/master/img/IMG_20171002_111250.jpg)
+![nuts](http://img.hb.aicdn.com/d397207812b62cca07f26c646e97e69850d9763322ff1e-YFvNET_fw658)
 拍照片的时候觉得自己的笑容里多了一点东西，不知道你能不能体会到，爱。
 ![selfie2](https://github.com/echosara/echoblog/blob/master/img/val_selfie2.jpg)
 回校的时候我和我妈拍了一张，弥补一下没有和你在火车站前拍的遗憾，我妈也不怎么上照，有点羞涩，能看出来的。
