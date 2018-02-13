@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "爱你 巍月"
+title:      "爱你"
 subtitle:   "第一次情人节 不再是一个人 "
 date:       2018-2-14
 author:     "Echo"
@@ -46,13 +46,14 @@ tags:
 
 ### 宣告 announcement
 ![announcement](https://github.com/echosara/echoblog/blob/master/img/announcement.png) 
-我对文字太挑剔，很多这种announcement自己都看不上眼，但是你的，觉得还凑合吧。字字连心。
+我对文字太挑剔，很多这种announcement自己都看不上眼，但是你的，觉得还凑合吧。字字连心。从那天之后，生活有了一些改变，秀恩爱的时候也要去注意一下身边的单身狗，毕竟自己也是那样过来的。
 
 ### 之后我们就过上了幸福快乐的生活
-![t0gether](https://github.com/echosara/echoblog/blob/master/img/val_together.jpg)
+![together](https://github.com/echosara/echoblog/blob/master/img/val_together.jpg)
+看见你做菜的时候觉得做菜原来这么简单，毕竟连霍巍月都会做，又会觉得，做菜其实难得在于用心。
+![jianping](https://github.com/echosara/echoblog/blob/master/img/val_jianping.jpg)
 
-
-
+> 我们的故事未完待续
 
 
 
