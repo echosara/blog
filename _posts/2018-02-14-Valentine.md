@@ -4,15 +4,11 @@ title:      "爱你"
 subtitle:   "第一次情人节 不再是一个人 "
 date:       2018-2-14
 author:     "Echo"
-header-img: "img/post-bg-valentine.png"
+header-img: "img/post-bg-val.jpg"
 catalog: true
 tags:
     - 爱情
 ---
-
->
-
-![test](https://raw.githubusercontent.com/echosara/echoblog/master/img/post-bg-valentine%20.jpg)
 
 ### 开始 ——2017-09-20
 那天，接到你的电话，看到你的说说，去主教找你，找的第二个教室你就在里面。
