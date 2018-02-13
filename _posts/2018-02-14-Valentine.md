@@ -4,7 +4,7 @@ title:      "爱你"
 subtitle:   "第一次情人节 不再是一个人 "
 date:       2018-2-14
 author:     "Echo"
-header-img: "img/post-bg-val.jpg"
+header-img: "img/post-bg-valt.jpg"
 catalog: true
 tags:
     - 爱情
