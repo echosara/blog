@@ -14,8 +14,9 @@ tags:
 ![love](https://wallpapers.wallhaven.cc/wallpapers/full/wallhaven-421923.jpg)
 
 ### 开始 ——2017-09-20
-那天，接到你的电话，看到你的说说，去主教找你，找的第二个教室你就在里面。
-那时心里就会想，
+那天，接到你的电话，看到你的说说，
+![begin](http://img.hb.aicdn.com/8a5c72e6eb81c604391ac23b2da1320a2de4699e2b48f-XnuvAa_fw658)
+去主教找你，找的第二个教室你就在里面。那时心里就会想，
 我不想让你再流泪，不再容忍别人给你伤害，我想要用我的温柔，给你整个宇宙。
 
 ### 在411自习
@@ -25,14 +26,14 @@ tags:
 拿着行李箱在女生楼下等你，项光耀路过，问我干嘛？我说，和小学妹一起回家见父母，他觉得我骗人，所以我想在火车站前面发一张两人的自拍给他，你觉得自己不太上镜，就都删掉了.
 分开的时候抱了你，张小娴书上说，要紧紧地抱，然后放手的时候会让体温留下。但是不想和你分开，拖到最后一个检票。
 第二天你发了一条说说，项光耀就看出来了。
-![guoqing](https://github.com/echosara/echoblog/blob/master/img/guoqing.png)
+![guoqing](http://img.hb.aicdn.com/b7ccd82feb98a256f495201f2b86834e974012d059735-NZ3qwP_fw658)
 我看在家的时候拍了很多照片，早饭和栗子,想要告诉你我在这边的生活是什么样的
-![breakfast](https://github.com/echosara/echoblog/blob/master/img/val_breakfast.jpg)
+![breakfast](http://img.hb.aicdn.com/94d3a7cde935f11c9001f12bc7df99d73ac062f52fe3f0-rAC9hx_fw658)
 ![nuts](http://img.hb.aicdn.com/d397207812b62cca07f26c646e97e69850d9763322ff1e-YFvNET_fw658)
 拍照片的时候觉得自己的笑容里多了一点东西，不知道你能不能体会到，爱。
-![selfie2](https://github.com/echosara/echoblog/blob/master/img/val_selfie2.jpg)
+![selfie2](http://img.hb.aicdn.com/1ca6d912b9c06609f579e9e109cc3050e8293dd532c1b7-9GUN8e_fw658)
 回校的时候我和我妈拍了一张，弥补一下没有和你在火车站前拍的遗憾，我妈也不怎么上照，有点羞涩，能看出来的。
-![mother](https://github.com/echosara/echoblog/blob/master/img/val_mother.jpg)
+![mother](http://img.hb.aicdn.com/b2c5732ce864fba26cf2903e25fc92b8513942e5190f6b-JlkwQX_fw658)
 
 ### 回校
 去火车站接你的时候，感觉在一起了，之前还有点不确定，你是不是不愿意，但从你看我的表情里，我确定了。
@@ -42,10 +43,10 @@ tags:
 
 ### 闲逛
 没有拍照片，只能从这条说说想象那些晚上的昏暗的灯光，说的话，那个从铁门缝里钻进来的小孩，那个小孩我大概一辈子都记得，不知道他会不会一辈子也记得我。
-![xianguang](https://github.com/echosara/echoblog/blob/master/img/xiangkuang.png)
+![xianguang](http://img.hb.aicdn.com/b1d0da6b9993167bf217dad9a9a7f2f081032cbf12e6f-z6wxnd_fw658)
 
 ### 宣告 announcement
-![announcement](https://github.com/echosara/echoblog/blob/master/img/announcement.png) 
+![announcement](http://img.hb.aicdn.com/b052c691698ce611226716b8f215af098de4f6bf241cb-se3bEj_fw658) 
 我对文字太挑剔，很多这种announcement自己都看不上眼，但是你的，觉得还凑合吧。字字连心。从那天之后，生活有了一些改变，秀恩爱的时候也要去注意一下身边的单身狗，毕竟自己也是那样过来的。
 
 ### 手表
@@ -61,9 +62,9 @@ tags:
 恋爱带给我很多改变，自己以前不怎么会出去吃，不会吃火锅，不会网购退货，不会刷碗，不会安慰人，当然现在也不怎么会，不会处理自己的欲望。恋爱啊，会给我解放和责任。
 
 ### 之后我们就过上了幸福快乐的生活
-![together](https://github.com/echosara/echoblog/blob/master/img/val_together.jpg)
+![together](http://img.hb.aicdn.com/cb0f267bee733c1b7724f156168dad8255e3d9cb22767f-Dzm5GZ_fw658)
 看见你做菜的时候觉得做菜原来这么简单，毕竟连霍巍月都会做，又会觉得，做菜其实难得在于用心。
-![jianping](https://github.com/echosara/echoblog/blob/master/img/val_jianping.jpg)
+![jianping](http://img.hb.aicdn.com/7c07390b9f13ab107bf642b175dff7237556ce632acadd-GdWrOV_fw658)
 
 
 > 我们的故事好多感觉根本说不完，当然也远远没有结束，以后会更新哦，也会把不能放照片的bug解决掉。 
