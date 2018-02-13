@@ -16,7 +16,6 @@ tags:
 
 ### 开始 ——2017-09-20
 那天，接到你的电话，看到你的说说，去主教找你，找的第二个教室你就在里面。
-![begin](https://raw.githubusercontent.com/echosara/echoblog/master/img/begin.png)
 那时心里就会想，
 我不想让你再流泪，不再容忍别人给你伤害，我想要用我的温柔，给你整个宇宙。
 
