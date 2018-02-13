@@ -56,12 +56,16 @@ tags:
 ### 脾气
 倔，想想看也正常，属虎的有偏偏是狮子座，世界万物永远是守恒的，脾气有多坏，其他的方面就会有多好。那我宁愿脾气坏一点。
 
+### 火锅
+恋爱带给我很多改变，自己以前不怎么会出去吃，不会吃火锅，不会网购退货，不会刷碗，不会安慰人，当然现在也不怎么会，不会处理自己的欲望。恋爱啊，会给我解放和责任。
+
 ### 之后我们就过上了幸福快乐的生活
 ![together](https://github.com/echosara/echoblog/blob/master/img/val_together.jpg)
 看见你做菜的时候觉得做菜原来这么简单，毕竟连霍巍月都会做，又会觉得，做菜其实难得在于用心。
 ![jianping](https://github.com/echosara/echoblog/blob/master/img/val_jianping.jpg)
 
-> 我们的故事未完待续 
+
+> 我们的故事好多感觉根本说不完，当然也远远没有结束，以后会更新哦，也会把不能放照片的bug解决掉。 
 > 照片加不上去，[想看的话点这里](https://github.com/echosara/echoblog/blob/master/_posts/2018-02-14-Valentine.md)
 
 
