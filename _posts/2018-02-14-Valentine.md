@@ -66,7 +66,7 @@ tags:
 
 
 > 我们的故事好多感觉根本说不完，当然也远远没有结束，以后会更新哦，也会把不能放照片的bug解决掉。 
-> 照片加不上去，[想看的话点这里](https://github.com/echosara/echoblog/blob/master/_posts/2018-02-14-Valentine.md)
+> 照片加不上去，[想看的话点这里](https://github.com/echosara/echoblog/blob/master/_posts/2018-02-14-Valentine.md)，这个链接和这个在手机上差别不大，但是在电脑上差别还是蛮多的。
 
 
 
