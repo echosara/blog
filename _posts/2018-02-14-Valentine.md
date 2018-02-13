@@ -20,7 +20,7 @@ tags:
 
 ### 第一次分别
 拿着行李箱在女生楼下等你，项光耀路过，问我干嘛？我说，和小学妹一起回家见父母，他觉得我骗人，所以我想在火车站前面发一张两人的自拍给他，你觉得自己不太上镜，就都删掉了，然后给我看了这张自拍。
-![selfie](https://github.com/echosara/echoblog/blob/master/img/val_selfie.jpg)
+![selfie](img/val_selfie.jpg)
 分开的时候抱了你，张小娴书上说，要紧紧地抱，然后放手的时候会让体温留下。但是不想和你分开，拖到最后一个检票。
 第二天你发了一条说说，项光耀就看出来了。
 ![guoqing](https://github.com/echosara/echoblog/blob/master/img/guoqing.png)
